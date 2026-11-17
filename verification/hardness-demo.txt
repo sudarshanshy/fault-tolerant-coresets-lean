@@ -1,0 +1,9 @@
+Gap k-means to weighted sensitivity: rho=3, alpha=2, threshold=1/11
+YES instance weights: [1, 16, 16]
+NO instance weights: [1, 64, 64]
+YES exact sensitivity: 1/5
+NO exact sensitivity: 1/17
+YES accepted: true
+NO rejected: true
+YES construction bit-cost: 47782
+NO construction bit-cost: 51080

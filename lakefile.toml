@@ -1,0 +1,23 @@
+name = "faultTolerantCoresets"
+version = "0.1.0"
+defaultTargets = ["FaultTolerantCoresets"]
+moreLeanArgs = ["-j1"]
+
+[leanOptions]
+autoImplicit = false
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.31.0"
+
+[[lean_lib]]
+name = "FaultTolerantCoresets"
+
+[[lean_exe]]
+name = "coreset-demo"
+root = "FaultTolerantCoresets.Executable.Demo"
+
+[[lean_exe]]
+name = "hardness-demo"
+root = "FaultTolerantCoresets.Hardness.Demo"

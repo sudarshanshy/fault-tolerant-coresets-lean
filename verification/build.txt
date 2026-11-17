@@ -1,0 +1,620 @@
+⚠ [951/1020] Replayed FaultTolerantCoresets.Basic
+warning: FaultTolerantCoresets/Basic.lean:31:0: automatically included section variable(s) unused in theorem `FTC.contribution_nonneg`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Basic.lean:44:0: automatically included section variable(s) unused in theorem `FTC.cost_nonneg`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Basic.lean:48:0: automatically included section variable(s) unused in theorem `FTC.contribution_le_cost`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Basic.lean:59:0: automatically included section variable(s) unused in theorem `FTC.cost_mono`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Basic.lean:63:0: automatically included section variable(s) unused in theorem `FTC.cost_congr`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Basic.lean:67:8: automatically included section variable(s) unused in theorem `FTC.cost_empty`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Basic.lean:79:0: automatically included section variable(s) unused in theorem `FTC.cost_le_card_mul`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [952/1020] Replayed FaultTolerantCoresets.Corruption
+warning: FaultTolerantCoresets/Corruption.lean:14:0: automatically included section variable(s) unused in theorem `FTC.IsFCorruption.refl`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [977/1020] Replayed FaultTolerantCoresets.Sensitivity
+warning: FaultTolerantCoresets/Sensitivity.lean:46:0: automatically included section variable(s) unused in theorem `FTC.sensitivityRatios_nonempty`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [979/1020] Replayed FaultTolerantCoresets.SamplingWeights
+warning: FaultTolerantCoresets/SamplingWeights.lean:38:0: automatically included section variable(s) unused in theorem `FTC.totalScore_nonneg`:
+  [DecidableEq J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/SamplingWeights.lean:47:0: automatically included section variable(s) unused in theorem `FTC.samplingWeight_nonneg`:
+  [DecidableEq J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [1010/1040] Replayed FaultTolerantCoresets.Filtering
+warning: FaultTolerantCoresets/Filtering.lean:22:0: automatically included section variable(s) unused in theorem `FTC.chosenMax_spec`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [1693/1817] Replayed FaultTolerantCoresets.LowerBound.Combinatorial
+warning: FaultTolerantCoresets/LowerBound/Combinatorial.lean:40:0: automatically included section variable(s) unused in theorem `FTC.LowerBound.coordinateWeight_mono`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/LowerBound/Combinatorial.lean:74:0: automatically included section variable(s) unused in theorem `FTC.LowerBound.exists_small_bin`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [2364/2378] Replayed FaultTolerantCoresets.FiniteMetric.SensitivityReduction
+warning: FaultTolerantCoresets/FiniteMetric/SensitivityReduction.lean:29:0: automatically included section variable(s) unused in theorem `FTC.FiniteMetric.kmeansLoss_nonneg`:
+  [Fintype X]
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype X] [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/FiniteMetric/SensitivityReduction.lean:34:0: automatically included section variable(s) unused in theorem `FTC.FiniteMetric.kmeansLoss_le_dist_sq`:
+  [Fintype X]
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype X] [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/FiniteMetric/SensitivityReduction.lean:38:0: automatically included section variable(s) unused in theorem `FTC.FiniteMetric.exists_closest_center`:
+  [Fintype X]
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype X] [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/FiniteMetric/SensitivityReduction.lean:46:0: automatically included section variable(s) unused in theorem `FTC.FiniteMetric.admissible_iff`:
+  [Fintype X]
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype X] [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/FiniteMetric/SensitivityReduction.lean:60:0: automatically included section variable(s) unused in theorem `FTC.FiniteMetric.feasibleRadius_iff_card`:
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/FiniteMetric/SensitivityReduction.lean:112:0: automatically included section variable(s) unused in theorem `FTC.FiniteMetric.trialScore_le_estimate`:
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/FiniteMetric/SensitivityReduction.lean:202:0: automatically included section variable(s) unused in theorem `FTC.FiniteMetric.oracle_calls_le_card`:
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [2367/2378] Replayed FaultTolerantCoresets.Probability.Histogram
+warning: FaultTolerantCoresets/Probability/Histogram.lean:33:0: automatically included section variable(s) unused in theorem `FTC.Probability.histogram_nonneg`:
+  [Fintype J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Probability/Histogram.lean:62:0: automatically included section variable(s) unused in theorem `FTC.Probability.AccurateHistogram.coefficient_bounds`:
+  [Fintype J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [2377/2401] Replayed FaultTolerantCoresets.LowerBound.BasisInstance
+warning: FaultTolerantCoresets/LowerBound/BasisInstance.lean:34:2: Try `simp at h'` instead of `simpa using h'`
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [2886/2931] Replayed FaultTolerantCoresets.Executable.Filtering
+warning: FaultTolerantCoresets/Executable/Filtering.lean:57:20: This simp argument is unused:
+  h
+
+Hint: Omit it from the simp argument list.
+  simp ̵[̵h̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Executable/Filtering.lean:59:41: This simp argument is unused:
+  h
+
+Hint: Omit it from the simp argument list.
+  simp [h,̵ ̵h̵xy]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [2887/2931] Replayed FaultTolerantCoresets.Executable.FiniteMetricMatrix
+warning: FaultTolerantCoresets/Executable/FiniteMetricMatrix.lean:24:8: automatically included section variable(s) unused in theorem `FTC.Executable.rationalMax_empty`:
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricMatrix.lean:74:0: automatically included section variable(s) unused in theorem `FTC.Executable.realContribution_nonneg`:
+  [DecidableEq I]
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricMatrix.lean:80:8: automatically included section variable(s) unused in theorem `FTC.Executable.rationalCost_cast`:
+  [DecidableEq I]
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricMatrix.lean:84:0: automatically included section variable(s) unused in theorem `FTC.Executable.rationalCost_nonneg`:
+  [DecidableEq I]
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricMatrix.lean:136:35: This simp argument is unused:
+  sensitivity_of_not_mem hi
+
+Hint: Omit it from the simp argument list.
+  simp [rationalSensitivity, hi,̵ ̵s̵e̵n̵s̵i̵t̵i̵v̵i̵t̵y̵_̵o̵f̵_̵n̵o̵t̵_̵m̵e̵m̵ ̵h̵i̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricMatrix.lean:161:8: automatically included section variable(s) unused in theorem `FTC.Executable.rationalCostCounted_value`:
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricMatrix.lean:171:8: automatically included section variable(s) unused in theorem `FTC.Executable.rationalCostCounted_work`:
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [2888/2931] Replayed FaultTolerantCoresets.Executable.Decoder
+warning: FaultTolerantCoresets/Executable/Decoder.lean:26:0: automatically included section variable(s) unused in theorem `FTC.Executable.matrixDecodeCounted_value`:
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/Decoder.lean:125:0: automatically included section variable(s) unused in theorem `FTC.Executable.chargedMatrixWork_bound`:
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [2889/2931] Replayed FaultTolerantCoresets.Executable.FiniteMetricEnumeration
+warning: FaultTolerantCoresets/Executable/FiniteMetricEnumeration.lean:24:0: automatically included section variable(s) unused in theorem `FTC.Executable.exactFiniteSolver_none_iff`:
+  [DecidableEq I]
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricEnumeration.lean:28:0: automatically included section variable(s) unused in theorem `FTC.Executable.exactFiniteSolver_spec`:
+  [DecidableEq I]
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricEnumeration.lean:113:0: automatically included section variable(s) unused in theorem `FTC.Executable.argminCounted_value`:
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricEnumeration.lean:125:0: automatically included section variable(s) unused in theorem `FTC.Executable.argminCounted_work_le`:
+  [DecidableEq S]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq S] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricEnumeration.lean:131:58: This simp argument is unused:
+  h
+
+Hint: Omit it from the simp argument list.
+  simp only ̵[̵h̵]̵
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [2890/2931] Replayed FaultTolerantCoresets.Executable.FiniteMetricKMeans
+warning: FaultTolerantCoresets/Executable/FiniteMetricKMeans.lean:51:0: automatically included section variable(s) unused in theorem `FTC.Executable.rationalPointLoss_nonneg`:
+  [LinearOrder X]
+  [Fintype X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [LinearOrder X] [Fintype X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricKMeans.lean:62:0: automatically included section variable(s) unused in theorem `FTC.Executable.rationalKmeansLoss_nonneg`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricKMeans.lean:70:0: automatically included section variable(s) unused in theorem `FTC.Executable.mem_centerCandidateList`:
+  [Fintype X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricKMeans.lean:93:0: automatically included section variable(s) unused in theorem `FTC.Executable.centerCandidateList_length`:
+  [Fintype X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricKMeans.lean:131:49: This simp argument is unused:
+  exists_prop
+
+Hint: Omit it from the simp argument list.
+  simp only [mem_centerCandidateList, and_assoc,̵ ̵e̵x̵i̵s̵t̵s̵_̵p̵r̵o̵p̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricKMeans.lean:177:0: automatically included section variable(s) unused in theorem `FTC.Executable.centerQueries_card_le`:
+  [Fintype X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Executable/FiniteMetricKMeans.lean:205:0: automatically included section variable(s) unused in theorem `FTC.Executable.rationalCenterMatrix_cast`:
+  [DecidableEq I]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq I] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [2894/2931] Replayed FaultTolerantCoresets.Hardness.MetricExtension
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:22:8: automatically included section variable(s) unused in theorem `FTC.Hardness.oldPoint_apply`:
+  [DecidableEq X]
+  [MetricSpace X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] [MetricSpace X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:57:8: automatically included section variable(s) unused in theorem `FTC.Hardness.extensionDist_old`:
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:60:8: automatically included section variable(s) unused in theorem `FTC.Hardness.extensionDist_new_old`:
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:76:8: automatically included section variable(s) unused in theorem `FTC.Hardness.none_not_liftCenters`:
+  [DecidableEq X]
+  [MetricSpace X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] [MetricSpace X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:79:8: automatically included section variable(s) unused in theorem `FTC.Hardness.some_mem_liftCenters`:
+  [DecidableEq X]
+  [MetricSpace X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] [MetricSpace X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:90:8: automatically included section variable(s) unused in theorem `FTC.Hardness.mem_oldCenters`:
+  [MetricSpace X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [MetricSpace X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:123:0: automatically included section variable(s) unused in theorem `FTC.Hardness.extensionLoss_nonneg`:
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:127:0: automatically included section variable(s) unused in theorem `FTC.Hardness.extensionLoss_eq_kmeansLoss`:
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:132:8: automatically included section variable(s) unused in theorem `FTC.Hardness.extensionLoss_old_lift`:
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:136:8: automatically included section variable(s) unused in theorem `FTC.Hardness.extensionLoss_new_lift`:
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:153:8: automatically included section variable(s) unused in theorem `FTC.Hardness.none_mem_extendedClients`:
+  [MetricSpace X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [MetricSpace X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:156:8: automatically included section variable(s) unused in theorem `FTC.Hardness.extendedClients_card`:
+  [MetricSpace X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [MetricSpace X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Hardness/MetricExtension.lean:175:0: automatically included section variable(s) unused in theorem `FTC.Hardness.gadgetContribution_eq_weightedLoss`:
+  [DecidableEq X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [2895/2931] Replayed FaultTolerantCoresets.Hardness.SensitivityFormula
+warning: FaultTolerantCoresets/Hardness/SensitivityFormula.lean:21:0: automatically included section variable(s) unused in theorem `FTC.Hardness.centerSet_nonempty`:
+  [DecidableEq X]
+  [MetricSpace X]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq X] [MetricSpace X] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [2896/2931] Replayed FaultTolerantCoresets.Hardness.GapReduction
+warning: FaultTolerantCoresets/Hardness/GapReduction.lean:144:48: Variable name `hρ` is not explicitly referenced.
+
+The binding can be removed (if unused) or named `_` (if used implicitly).
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [2898/2931] Replayed FaultTolerantCoresets.Hardness.Computation
+warning: FaultTolerantCoresets/Hardness/Computation.lean:305:13: This simp argument is unused:
+  Code.eval
+
+Hint: Omit it from the simp argument list.
+  simp only [C̵o̵d̵e̵.̵e̵v̵a̵l̵,̵ ̵Ty.size]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Hardness/Computation.lean:322:45: This simp argument is unused:
+  Nat.add_comm
+
+Hint: Omit it from the simp argument list.
+  simp [ih, Nat.add_assoc, Nat.add_c̵o̵m̵m̵,̵ ̵N̵a̵t̵.̵a̵d̵d̵_̵left_comm]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [2900/2931] Replayed FaultTolerantCoresets.Hardness.RationalEncoding
+warning: FaultTolerantCoresets/Hardness/RationalEncoding.lean:124:19: Variable name `hB` is not explicitly referenced.
+
+The binding can be removed (if unused) or named `_` (if used implicitly).
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [2902/2931] Replayed FaultTolerantCoresets.Hardness.FullMatrix
+warning: FaultTolerantCoresets/Hardness/FullMatrix.lean:94:34: This simp argument is unused:
+  materialize
+
+Hint: Omit it from the simp argument list.
+  simp [fullDistance, m̵a̵t̵er̵i̵a̵l̵i̵z̵e̵,̵ ̵e̵xpandedMatrix, fullMatrix, position, rational]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Hardness/FullMatrix.lean:104:8: This simp argument is unused:
+  List.getD_cons_zero
+
+Hint: Omit it from the simp argument list.
+  simp only [fullDistance, materialize, fullMatrix, expandedMatrix, position,
+          L̵i̵s̵t̵.̵g̵e̵t̵D̵_̵c̵o̵n̵s̵_̵z̵e̵r̵o̵,̵ ̵List.getD_cons_succ]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Hardness/FullMatrix.lean:109:8: This simp argument is unused:
+  List.getD_cons_zero
+
+Hint: Omit it from the simp argument list.
+  simp only [fullDistance, materialize, fullMatrix, expandedMatrix, position,
+          L̵i̵s̵t̵.̵g̵e̵t̵D̵_̵c̵o̵n̵s̵_̵z̵e̵r̵o̵,̵ ̵List.getD_cons_succ]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Hardness/FullMatrix.lean:129:30: This simp argument is unused:
+  materialize
+
+Hint: Omit it from the simp argument list.
+  simp [̵m̵a̵t̵e̵r̵i̵a̵l̵i̵z̵e̵,̵ ̵e̵x̵p̵a̵n̵d̵e̵d̵M̵a̵t̵r̵i̵x̵,̵[̲e̲x̲p̲a̲n̲d̲e̲d̲M̲a̲t̲r̲i̲x̲,̲ fullMatrix, pointCount]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Hardness/FullMatrix.lean:132:31: This simp argument is unused:
+  materialize
+
+Hint: Omit it from the simp argument list.
+  simp [m̵a̵t̵e̵r̵i̵a̵l̵i̵z̵e̵,̵ ̵fullWeights, pointCount]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Hardness/FullMatrix.lean:139:29: This simp argument is unused:
+  materialize
+
+Hint: Omit it from the simp argument list.
+  simp [m̵a̵t̵e̵r̵i̵a̵l̵i̵z̵e̵,̵ ̵fullFlags]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Hardness/FullMatrix.lean:142:15: This simp argument is unused:
+  materialize
+
+Hint: Omit it from the simp argument list.
+  simp only [m̵a̵t̵e̵r̵i̵a̵l̵i̵z̵e̵,̵ ̵fullMatrix, expandedMatrix, List.mem_cons, List.mem_map] at hr
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Hardness/FullMatrix.lean:144:24: This simp argument is unused:
+  materialize
+
+Hint: Omit it from the simp argument list.
+  simp [pointCount,̵ ̵m̵a̵t̵e̵r̵i̵a̵l̵i̵z̵e̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [2911/2931] Replayed FaultTolerantCoresets.Counterexample.SensitivityBounds
+warning: FaultTolerantCoresets/Counterexample/SensitivityBounds.lean:51:40: Variable name `hε` is not explicitly referenced.
+
+The binding can be removed (if unused) or named `_` (if used implicitly).
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [2913/2931] Replayed FaultTolerantCoresets.Counterexample.SensitivityWitnesses
+warning: FaultTolerantCoresets/Counterexample/SensitivityWitnesses.lean:42:40: This simp argument is unused:
+  if_pos rfl
+
+Hint: Omit it from the simp argument list.
+  simp only [corruptContribution_apply, i̵f̵_̵pos̵ ̵r̵f̵l̵,̵ ̵p̵o̵intLoss_b_simplex] at h
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [2914/2931] Replayed FaultTolerantCoresets.Counterexample.ProxyReference
+warning: FaultTolerantCoresets/Counterexample/ProxyReference.lean:36:6: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+warning: FaultTolerantCoresets/Counterexample/ProxyReference.lean:71:2: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [2926/2931] Replayed FaultTolerantCoresets.Probability.FiniteIID
+warning: FaultTolerantCoresets/Probability/FiniteIID.lean:32:0: automatically included section variable(s) unused in theorem `FTC.Probability.mass_nonneg`:
+  [Fintype J]
+  [DecidableEq J]
+  [MeasurableSpace J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype J] [DecidableEq J] [MeasurableSpace J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Probability/FiniteIID.lean:34:0: automatically included section variable(s) unused in theorem `FTC.Probability.mass_le_one`:
+  [Fintype J]
+  [DecidableEq J]
+  [MeasurableSpace J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype J] [DecidableEq J] [MeasurableSpace J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Probability/FiniteIID.lean:44:8: automatically included section variable(s) unused in theorem `FTC.Probability.mass_pmfOfMass`:
+  [DecidableEq J]
+  [MeasurableSpace J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq J] [MeasurableSpace J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Probability/FiniteIID.lean:60:38: This simp argument is unused:
+  PMF.toMeasure_apply_singleton
+
+Hint: Omit it from the simp argument list.
+  simp [iidLaw, Measure.pi_singleton,̵ ̵P̵M̵F̵.̵t̵o̵M̵e̵a̵s̵u̵r̵e̵_̵a̵p̵p̵l̵y̵_̵s̵i̵n̵g̵l̵e̵t̵o̵n̵]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: FaultTolerantCoresets/Probability/FiniteIID.lean:63:0: automatically included section variable(s) unused in theorem `FTC.Probability.iidLaw_eval_map`:
+  [Fintype J]
+  [DecidableEq J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype J] [DecidableEq J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Probability/FiniteIID.lean:68:0: automatically included section variable(s) unused in theorem `FTC.Probability.iidLaw_independent`:
+  [Fintype J]
+  [DecidableEq J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype J] [DecidableEq J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Probability/FiniteIID.lean:145:10: 'ring' tactic does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: FaultTolerantCoresets/Probability/FiniteIID.lean:145:10: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: FaultTolerantCoresets/Probability/FiniteIID.lean:181:0: automatically included section variable(s) unused in theorem `FTC.Probability.accurateHistogram_of_not_bad`:
+  [Fintype J]
+  [MeasurableSpace J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Fintype J] [MeasurableSpace J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Probability/FiniteIID.lean:211:0: automatically included section variable(s) unused in theorem `FTC.Probability.fallbackSampleSize_pos`:
+  [DecidableEq J]
+  [MeasurableSpace J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq J] [MeasurableSpace J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [2927/2931] Replayed FaultTolerantCoresets.Probability.ScoreSampling
+warning: FaultTolerantCoresets/Probability/ScoreSampling.lean:36:0: automatically included section variable(s) unused in theorem `FTC.Probability.positiveIndex_mem`:
+  [DecidableEq J]
+  [MeasurableSpace J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq J] [MeasurableSpace J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Probability/ScoreSampling.lean:41:0: automatically included section variable(s) unused in theorem `FTC.Probability.positiveIndex_score_pos`:
+  [DecidableEq J]
+  [MeasurableSpace J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq J] [MeasurableSpace J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Probability/ScoreSampling.lean:46:0: automatically included section variable(s) unused in theorem `FTC.Probability.score_nonneg_of_dominates`:
+  [MeasurableSpace J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [MeasurableSpace J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Probability/ScoreSampling.lean:53:0: automatically included section variable(s) unused in theorem `FTC.Probability.loss_zero_of_score_zero`:
+  [MeasurableSpace J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [MeasurableSpace J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: FaultTolerantCoresets/Probability/ScoreSampling.lean:83:0: automatically included section variable(s) unused in theorem `FTC.Probability.positiveSupport_score_sum`:
+  [DecidableEq J]
+  [MeasurableSpace J]
+  [DiscreteMeasurableSpace J]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [DecidableEq J] [MeasurableSpace J] [DiscreteMeasurableSpace J] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+✔ [2928/2931] Built FaultTolerantCoresets.Hardness.FullReduction (11s)
+✔ [2929/2931] Built FaultTolerantCoresets.Hardness.Examples (12s)
+✔ [2930/2931] Built FaultTolerantCoresets (32s)
+Build completed successfully (2931 jobs).

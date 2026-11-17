@@ -1,0 +1,6 @@
+Stored entries: 80
+Remaining entries: 79
+Corrupted index 0 removed: true
+Sensitivity calls: 80
+Cached-score comparisons: 79
+Deletions: 1
