@@ -1,6 +1,21 @@
-.lake/
+# Lean dependencies and build products
+/.lake/
+/.elan/
 *.olean
 *.ilean
 *.trace
-work/
-outputs/
+
+# Local editor and operating-system files
+.DS_Store
+.idea/
+*.swp
+*~
+
+# Python and generated extraction logs
+__pycache__/
+*.py[cod]
+/blueprint/extraction.log
+
+# Local development output
+/work/
+/outputs/

@@ -1,0 +1,13 @@
+* text=auto
+*.lean text eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+*.png binary
+*.pdf binary
+blueprint/generated/* linguist-generated=true
+blueprint/compiled_dependencies.json linguist-generated=true
+blueprint/source_index.json linguist-generated=true
+blueprint/source_names.txt linguist-generated=true

@@ -1,0 +1,16 @@
+{
+  "FTC.theorem_3_1": "Theorem 3.1: transfers an ordinary sensitivity sampler\u2019s success guarantee to fault-tolerant sampling and decoding.",
+  "FTC.theorem_A_1": "Theorem A.1: the sampling and decoding guarantee with proxy sensitivity scores.",
+  "FTC.LowerBound.theorem_3_4_of_support": "Theorem 3.4: a quantitative lower bound on stored support using weight preservation on basis queries.",
+  "FTC.FiniteMetric.estimate_approximates_sensitivity": "Theorem 4.1: reduces sensitivity approximation to constrained optimization in a finite metric.",
+  "FTC.Hardness.theorem_4_2_full_matrix": "Theorem 4.2: conditional hardness transfer for the explicit rational full-distance-matrix reduction. Assumes the external gap-k-means hardness premise.",
+  "FTC.lemma_3_2": "Lemma 3.2: bounds the contribution of each sampled copy relative to the original objective.",
+  "FTC.clean_core_bounds": "Bounds the clean part of a corrupted summary throughout filtering.",
+  "FTC.filtering_decoder_correct": "Proves the iterative filtering decoder returns a 6\u03b5-coreset under the stated corruption and oracle hypotheses.",
+  "FTC.Probability.iid_coreset_success_of_sampleSize": "Proves the ordinary iid coreset success guarantee at the explicit conservative sample size.",
+  "FTC.Probability.sensitivitySampling_fault_tolerant_rounded": "Instantiates fault-tolerant sampling with an explicit rounded iid sample count.",
+  "FTC.LowerBound.weight_preservation": "Claim A.2: Euclidean basis queries force preservation of stored weights.",
+  "FTC.Hardness.weighted_sensitivity_formula": "Computes the exact sensitivity in the hardness construction.",
+  "FTC.Hardness.Encoding.fullReductionCode_cost_size": "Bounds the full reduction\u2019s binary bit-cost and encoded output size in the formalized program model.",
+  "FTC.Counterexample.appendix_A1_counterexample": "Constructs the Appendix A.1 metric counterexample and establishes the decoder separation."
+}

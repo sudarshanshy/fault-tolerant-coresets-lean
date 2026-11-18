@@ -54,7 +54,7 @@ are included in the library import graph and the expanded axiom audit.
 
 The generic sampling wrappers retain the ordinary sampler's success guarantee
 as a hypothesis. The concrete iid constructions discharge that hypothesis
-using the conservative bound documented in [README.md](README.md). General
+using the conservative bound documented in [FORMALIZATION.md](FORMALIZATION.md). General
 real-valued optimization retains the constrained approximation-oracle
 specification; the finite-rational executable backend proves exactness by
 exhaustive enumeration. The audit checks proof dependencies, not algorithmic
@@ -67,7 +67,18 @@ conditional Theorem 4.2; the external Guha–Khuller result is not reproved.
 Sharper external concentration results, bit-cost analysis of the exhaustive
 optimizer, and machine running time are also outside the stated scope.
 
-The portable archive excludes dependency caches, compiled artifacts, and
-temporary development helpers. Its integrity and every archived file were
-checked against this working copy. Restore dependencies and reproduce the
-checks using the commands in [README.md](README.md#build).
+The original verification logs above are retained. Repository setup and graph
+verification are recorded separately below. The current portable checksum list
+excludes itself, dependency caches, compiled artifacts, and local development
+helpers. Reproduce the build checks using [README.md](README.md#build-and-verify).
+
+
+## Repository setup verification (17 November 2026)
+
+- Fresh `bash bootstrap.sh` and `bash check.sh` passed with the pinned Lean 4.31.0 environment.
+- All 67 expected axiom reports were present and used only the three standard logical axioms. Both executable demos passed.
+- The audit validator also rejected deliberately missing output and an injected `sorryAx`.
+- The blueprint extractor exported 1,856 compiled project constants and matched all 737 indexed source declarations.
+- The 14-node overview and four detailed views were generated from compiled dependencies; every displayed edge was checked against its recorded dependency path.
+- The generated overview image was visually inspected. Interactive browser testing was unavailable because the browser blocks local file URLs.
+- The original proof sources and pinned dependencies were unchanged.

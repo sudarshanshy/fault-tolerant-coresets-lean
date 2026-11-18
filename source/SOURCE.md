@@ -24,6 +24,6 @@ Relevant pages in the PDF:
 
 Theorem 4.2 is formalized as a conditional hardness transfer with the base
 gap-k-means hardness as an explicit premise. The cited external hardness
-theorem of Guha and Khuller is not reproved. See the README for the exact
+theorem of Guha and Khuller is not reproved. See FORMALIZATION.md for the exact
 bit-cost model used by the complexity statements. No results from a different
 paper revision are used.
